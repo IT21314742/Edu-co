@@ -7,5 +7,5 @@
 body::before{
     display: block;
     content: '';
-    height: ;
+    height: 60px;
 }
