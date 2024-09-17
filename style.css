@@ -4,4 +4,6 @@
     }
 }
 
-body::before{}
+body::before{
+    display: ;
+}
